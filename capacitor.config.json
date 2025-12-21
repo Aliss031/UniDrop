@@ -1,0 +1,6 @@
+{
+  "appId": "com.receiver.app",
+  "appName": "Receiver",
+  "webDir": "out",
+  "bundledWebRuntime": false
+}
