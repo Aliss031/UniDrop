@@ -13,6 +13,7 @@
     "@capacitor/android": "^8.0.0",
     "@capacitor/cli": "^8.0.0",
     "@capacitor/core": "^8.0.0",
+    "@clerk/nextjs": "^6.36.6",
     "firebase": "^12.7.0",
     "framer-motion": "^12.23.26",
     "html5-qrcode": "^2.3.8",

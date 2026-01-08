@@ -1,4 +1,4 @@
-package com.receiver.app;
+package com.unidrop.app;
 
 import com.getcapacitor.BridgeActivity;
 

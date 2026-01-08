@@ -1,6 +1,6 @@
 {
-  "appId": "com.receiver.app",
-  "appName": "Receiver",
+  "appId": "com.unidrop.app",
+  "appName": "UniDrop",
   "webDir": "out",
   "bundledWebRuntime": false
 }

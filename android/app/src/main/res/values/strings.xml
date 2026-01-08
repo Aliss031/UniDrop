@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Receiver</string>
-    <string name="title_activity_main">Receiver</string>
-    <string name="package_name">com.receiver.app</string>
-    <string name="custom_url_scheme">com.receiver.app</string>
+    <string name="app_name">UniDrop</string>
+    <string name="title_activity_main">UniDrop</string>
+    <string name="package_name">com.unidrop.app</string>
+    <string name="custom_url_scheme">com.unidrop.app</string>
 </resources>
