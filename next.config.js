@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export', // <-- enables static export
-  distDir: 'out',   // optional, folder for the build output
-}
+  // output: 'export', // removed to enable server-side features
+  distDir: 'out',    // optional, you can keep this if you want
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
